@@ -1,6 +1,3 @@
-
-
-
 def factorial_iterative(n):
     """Ітеративний спосіб розрахунку факторіалу"""
     result = 1
